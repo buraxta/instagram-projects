@@ -1,4 +1,3 @@
-
 .login{
     border: 1px solid black;
     width: 400px;
@@ -11,7 +10,6 @@
     background-position: center;
     overflow: hidden;
 }
-
 form{
     display: block;
     box-sizing: border-box;
