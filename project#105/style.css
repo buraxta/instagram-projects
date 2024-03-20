@@ -1,0 +1,20 @@
+body {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #212121
+  }
+  .input {
+    border-radius: 10px;
+    outline: 2px solid #FEBF00;
+    border: 0;
+    font-family: 'Segoe UI';
+    background-color: #e2e2e2;
+    outline-offset: 3px;
+    padding: 10px 1rem;
+    transition: 0.25s;
+  }
+  .input:focus {
+    outline-offset: 5px;
+    background-color: #fff;
+  }
